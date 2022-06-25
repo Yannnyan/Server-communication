@@ -6,12 +6,31 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+/**
+ * @brief The following code has no unit testing yet therefore im adding a safery pig.
+ * . 
+                         _ 
+ _._ _..._ .-',     _.._(`)) 
+'-. `     '  /-._.-'    ',/ 
+   )         \            '. 
+  / _    _    |             \ 
+ |  a    a    /              | 
+ \   .-.                     ;   
+  '-('' ).-'       ,'       ; 
+     '-;           |      .' 
+        \           \    / 
+        | 7  .__  _.-\   \ 
+        | |  |  ``/  /`  / 
+       /,_|  |   /,_/   / 
+          /,_/      '`-' 
+ */
 
 #define PORT 55013
 #define ADDRESS "8.8.8.8"
 
 #define MESSAGE_SIZE 1024
+
+
 
 int main()
 {   
